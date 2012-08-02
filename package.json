@@ -1,0 +1,13 @@
+{
+  "name": "docstore",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "express": "*",
+    "ejs": "*",
+    "riak-js": "*",
+  }
+}
